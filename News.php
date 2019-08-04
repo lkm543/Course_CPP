@@ -7,6 +7,20 @@ SSID：CSIE_guest<br>
 帳號：guest_H7C8B<br>
 密碼：IM6DMBRR</h2>
 
+<h2>2019/08/04</h2>
+<ul>
+	<li>期末考試改到219教室</li>
+	<li>期末考試(六選一題)已上傳至<a href="/Course/Cpp/Download/">Download區</a>，完成後在下周日(8/11)前寄至lkm543@gmail.com</li>
+	<li>作業繳交截止日期也在8/11(日)</li>
+	<li>麻煩填個教學問券:<a href="https://forms.gle/9qAQAWcviqf8mmmf7">https://forms.gle/9qAQAWcviqf8mmmf7</a></li>
+	<ul>
+		<li>本期開課日:2019/07/06</li>
+		<li>學號:CB318XXX</li>
+		<li>講師姓名:李耕銘</li>
+		<li>教室號碼:223B</li>
+	</ul>
+</ul>
+
 <h2>2019/08/03</h2>
 <ul>
 	<li>本日08/03(六)因高壓電施工停課乙次</li>
