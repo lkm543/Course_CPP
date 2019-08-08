@@ -1,5 +1,5 @@
 <h2>李耕銘</h2>
-<p>E-mail: lkm543@hotmail.com</p>
+<p>E-mail: lkm543@gmail.com</p>
 <p>Facebook: <a href="https://www.facebook.com/lkm543">https://www.facebook.com/lkm543</a></p>
 <p>Line: mick90207</p>
 <p>Phone: 0919350533</p>

@@ -14,7 +14,7 @@
           <li class='tab' data-tabid="Chapter05"><a href="#Chapter05">Chapter 05 迴圈</a></li>
           <li class='tab' data-tabid="HW1"><a href="#HW1">Homework 1</a></li>
           <li class='tab' data-tabid="Chapter06"><a href="#Chapter06">Chapter 06 陣列 字元與字串</a></li>
-          <li class='tab' data-tabid="Chapter07" data-tabid="Chapter00"><a href="#Chapter07">Chapter 07 指標(Pointer)</a></li>
+          <li class='tab' data-tabid="Chapter07"><a href="#Chapter07">Chapter 07 指標(Pointer)</a></li>
           <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Chapter 08 函式(Function)、遞迴</a></li>
           <li class='tab' data-tabid="HW2"><a href="#HW2">Homework 2</a></li>
           <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Chapter 09 函式庫的使用</a></li>
