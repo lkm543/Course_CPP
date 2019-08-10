@@ -17,7 +17,7 @@
 		require_once("Chapter".$x.".php");
 		echo '</div>';
 	} 
-	for ($x = 1; $x <= 4; $x++) {
+	for ($x = 1; $x <= 7; $x++) {
     	echo '<div class="tabContent" data-id="HW'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\HW".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("HW".$x.".php");
