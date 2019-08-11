@@ -20,3 +20,7 @@
 	<h3>Input：秒數</h3>
 	<h3>Output：換算是幾天幾小時幾分幾秒</h3>
 <img src="images/HW1_4.png" style="display:block; margin:auto;">
+
+<br>
+<br>
+<br>
