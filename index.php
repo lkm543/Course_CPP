@@ -70,12 +70,12 @@ session_start();
 
     <div class="container">
       <div class="row">
-          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-lg-offset-1">
-          <?php 
-          require_once("sidebar.php");
-          ?>
-          </div>
-        <div class="col-12 col-lg-offset-1">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+        <?php 
+        require_once("sidebar.php");
+        ?>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
           <?php
           if ($_SESSION['Login']=='True' or $_SESSION['Login']=='Admin'){
             require_once("content.php");

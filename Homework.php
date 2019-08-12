@@ -6,7 +6,7 @@ echo "檔案類型: " . $_SESSION['FileType']."<br/>";
 echo "檔案大小: " . ($_SESSION['FileSize'] / 1024)." Kb<br/>";
 }
 elseif (strcmp($_SESSION['Uploaded'],'Error')==0){
-echo "作業繳交失敗，請重試一次或聯絡lkm543@hotmail.com";
+echo "作業繳交失敗，請重試一次或聯絡lkm543@gmail.com";
 }
 $_SESSION['Uploaded']='Nothing';
 ?>
