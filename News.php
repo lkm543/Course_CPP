@@ -7,6 +7,11 @@ SSID：CSIE_guest<br>
 帳號：guest_H7C8B<br>
 密碼：IM6DMBRR</h2>
 
+<h2>2019/08/12</h2>
+<ul>
+	<li>網站排版更新，之後切換頁面不會跑版了</li>
+</ul>
+
 <h2>2019/08/11</h2>
 <ul>
 	<li>作業一更新完畢</li>

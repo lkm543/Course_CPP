@@ -11,7 +11,7 @@
           <li class='tab' data-tabid="Chapter02"><a href="#Chapter02">Chapter 02 資料型態與變數</a></li>
           <li class='tab' data-tabid="Chapter03"><a href="#Chapter03">Chapter 03 控制標準輸出</a></li>
           <li class='tab' data-tabid="HW1"><a href="#HW1">Homework 1</a></li>
-          <li class='tab' data-tabid="Chapter04"><a href="#Chapter04">Chapter 04 條件判斷例外判斷</a></li>
+          <li class='tab' data-tabid="Chapter04"><a href="#Chapter04">Chapter 04 條件判斷</a></li>
           <li class='tab' data-tabid="Chapter05"><a href="#Chapter05">Chapter 05 例外判斷</a></li>
           <li class='tab' data-tabid="HW2"><a href="#HW2">Homework 2</a></li>
           <li class='tab' data-tabid="Chapter06"><a href="#Chapter06">Chapter 06 迴圈</a></li>

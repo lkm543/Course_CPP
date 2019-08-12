@@ -11,13 +11,13 @@
 		require_once("Chapter0".$x.".php");
 		echo '</div>';
 	} 
-	for ($x = 10; $x <= 16; $x++) {
+	for ($x = 10; $x <= 19; $x++) {
     	echo '<div class="tabContent" data-id="Chapter'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\Chapter".$x.".pptx\">PPT下載連結</a></h3> ";
 		require_once("Chapter".$x.".php");
 		echo '</div>';
 	} 
-	for ($x = 1; $x <= 7; $x++) {
+	for ($x = 1; $x <= 8; $x++) {
     	echo '<div class="tabContent" data-id="HW'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\HW".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("HW".$x.".php");
