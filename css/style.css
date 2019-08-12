@@ -115,7 +115,7 @@ ul,
 /* header */
 
 .header {
-    background: url(images/header_bg.gif) repeat-x top;
+    background: url(../images/header_bg.gif) repeat-x top;
 }
 
 .header_resize {
@@ -127,7 +127,8 @@ ul,
 .header .logo {
     width: auto;
     float: left;
-    background: url(images/logo.jpg) no-repeat left top;
+    background: url(../images/logo.jpg) no-repeat left top;
+    background-size: contain;
     width: 181px;
     height: 134px;
 }
@@ -139,7 +140,7 @@ ul,
     float: right;
     width: 653px;
     height: 46px;
-    background: url(images/menu_bg.jpg) no-repeat center top;
+    background: url(../images/menu_bg.jpg) no-repeat center top;
 }
 
 .menu_nav ul {
@@ -167,7 +168,7 @@ ul,
 .menu_nav ul li a:hover,
 .menu_nav ul li.active a {
     color: #fff;
-    background: #00f url(images/menu_a.gif) repeat-x top;
+    background: #00f url(../images/menu_a.gif) repeat-x top;
 }
 
 
@@ -187,7 +188,7 @@ ul,
     padding: 0 4px 0 6px;
     float: right;
     width: 183px;
-    background: #fff url(images/search.gif) no-repeat top left;
+    background: #fff url(../images/search.gif) no-repeat top left;
 }
 
 #formsearch input.editbox_search {
@@ -214,7 +215,7 @@ ul,
 
 .hbg {
     height: 344px;
-    background: url(images/hbg_bg.gif) repeat-x top;
+    background: url(../images/hbg_bg.gif) repeat-x top;
     overflow: hidden;
     color: #fff;
 }
@@ -280,7 +281,7 @@ ul.ex_menu {
 ul.sb_menu li,
 ul.ex_menu li {
     margin: 0;
-    background: url(images/li.gif) no-repeat 0 12px;
+    background: url(../images/li.gif) no-repeat 0 12px;
 }
 
 ul.sb_menu li {

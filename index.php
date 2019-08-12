@@ -37,7 +37,7 @@ session_start();
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
     <!-- 
     <style>
       @media screen and (min-width: 680px) {
@@ -66,7 +66,6 @@ session_start();
     <?php 
     include("header.php");
     ?>
-    </div>
 
     <div class="container">
       <div class="row">
@@ -86,6 +85,7 @@ session_start();
           ?>
         </div>
       </div>
+    </div>
     </div>
   </body>
 </html>

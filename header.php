@@ -1,7 +1,7 @@
 <div class="header">
   <div class="header_resize">
-    <div class="logo"><h1><a href="index.html"> </a></h1></div>
-    <div class="menu_nav row">
+    <div class="logo"><h1><a href="index.php"> </a></h1></div>
+    <div class="menu_nav">
       <div class="searchform">
        <h1 style="font-family:Microsoft JhengHei;font-weight:bold;">台大資工訓練班 C/C++基礎班</h1>
       </div>
