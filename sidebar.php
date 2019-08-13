@@ -19,20 +19,20 @@
           <li class='tab' data-tabid="Chapter07"><a href="#Chapter07">Chapter 07 陣列</a></li>
           <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Chapter 08 字元與字串</a></li>
           <li class='tab' data-tabid="HW4"><a href="#HW1">Homework 4</a></li>
-          <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Chapter 09 指標(Pointer)</a></li>
+          <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Chapter 09 指標與參考</a></li>
           <li class='tab' data-tabid="HW5"><a href="#HW1">Homework 5</a></li>
-          <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Chapter 10 函式(Function)與遞迴</a></li>
+          <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Chapter 10 函式與遞迴</a></li>
           <li class='tab' data-tabid="HW6"><a href="#HW2">Homework 6</a></li>
           <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Chapter 11 函式庫的使用</a></li>
-          <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Chapter 12 檔案處理(File)</a></li>
+          <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Chapter 12 檔案處理</a></li>
           <li class='tab' data-tabid="HW7"><a href="#HW3">Homework 7</a></li>
           <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Chapter 13 標頭檔的建立</a></li>
-          <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 結構(Structure)</a></li>
+          <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 結構</a></li>
           <li class='tab' data-tabid="HW8"><a href="#HW4">Homework 8</a></li>
           <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Chapter 15 物件的使用、重載運算子</a></li>
           <li class='tab' data-tabid="Chapter16"><a href="#Chapter16">Chapter 16 類別的關係、繼承</a></li>
           <li class='tab' data-tabid="Chapter17"><a href="#Chapter17">Chapter 17 類別的進階使用</a></li>
-          <li class='tab' data-tabid="Chapter18"><a href="#Chapter18">Chapter 18 Template</a></li>
+          <li class='tab' data-tabid="Chapter18"><a href="#Chapter18">Chapter 18 模板(Template)</a></li>
           <li class='tab' data-tabid="Chapter19"><a href="#Chapter19">Chapter 19 期末考/Demo</a></li>
     </ul>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

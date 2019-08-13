@@ -74,7 +74,7 @@ session_start();
         require_once("sidebar.php");
         ?>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
           <?php
           if ($_SESSION['Login']=='True' or $_SESSION['Login']=='Admin'){
             require_once("content.php");
