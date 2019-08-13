@@ -3,7 +3,7 @@
 	<h3>Output：詢問你生日是哪一天</h3>
 	<h3>Input：年、月、日</h3>
 	<h3>Output：感謝，我知道你生日是____了</h3>
-<img src="images/HW1_1_1.png" style="display:block; margin:auto;">
+<img src="images/HW1_1.png" style="display:block; margin:auto;">
 
 <h2>1-2：BMI計算</h2>
 	<h3>Input：身高、體重</h3>
