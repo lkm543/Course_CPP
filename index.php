@@ -16,7 +16,7 @@ session_start();
 <!--<![endif]-->
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Cpp 基礎班</title>
+    <title>C/C++ 基礎班</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108151780-1"></script>
     <script>
@@ -76,7 +76,7 @@ session_start();
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
           <?php
-          if ($_SESSION['Login']=='True' or $_SESSION['Login']=='Admin'){
+          if ($_SESSION['Login']=='CPP' or $_SESSION['Login']=='Admin'){
             require_once("content.php");
           }
           else{
