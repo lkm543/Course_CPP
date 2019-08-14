@@ -7,7 +7,7 @@
 
 <h2>1-2：BMI計算</h2>
 	<h3>Input：身高、體重</h3>
-	<h3>Output：BMI</h3>
+	<h3>Output：BMI(統一輸出到小數點後兩位)</h3>
 	<h3>Hint：BMI= 體重(KG)/身高^2(M)</h3>
 <img src="images/HW1_2.png" style="display:block; margin:auto;">
 
