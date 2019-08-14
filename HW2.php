@@ -18,6 +18,7 @@
 	<h3>Output：相對應的文字</h3>
 <img src="images/HW2_3_1.png" style="display:block; margin:auto;">
 <img src="images/HW2_3_2.png" style="display:block; margin:auto;">
+<img src="images/HW2_3_3.png" style="display:block; margin:auto;">
 
 <h2>2-4：閏年判斷</h2>
 	<h3>Input：年份</h3>
@@ -28,6 +29,8 @@
 	<h3>Rule 3：若年份又可整除400，則為閏年。</h3>
 <img src="images/HW2_4_1.png" style="display:block; margin:auto;">
 <img src="images/HW2_4_2.png" style="display:block; margin:auto;">
+<img src="images/HW2_4_3.png" style="display:block; margin:auto;">
+
 
 <br>
 <br>

@@ -1,15 +1,17 @@
 <h1>作業3 迴圈練習</h1>
 
 <h2>3-1：迴圈結構</h2>
-	<h3>Input：兩正整數A、B</h3>
-	<h3>Output：A,B兩數間的所有正整數 </h3>
+	<h3>Input：兩正整數</h3>
+	<h3>Output：兩正整數間的所有正整數 </h3>
 <img src="images/HW3_1.png" style="display:block; margin:auto;">
 
 <h2>3-2：二進位轉十進位</h2>
 	<h3>Input：二進位的數字</h3>
 	<h3>Output：將該二進位轉成十進位</h3>
 	<h3>Hint：例外判斷需處理輸入的數字有0、1以外的存在</h3>
- <img src="images/HW3_2.png" style="display:block; margin:auto;">
+	<h3>Hint：寫一個迴圈，迴圈中會不停/10後再%10，可以把個位數、十位數...依次取出</h3>
+ <img src="images/HW3_2_1.png" style="display:block; margin:auto;">
+ <img src="images/HW3_2_2.png" style="display:block; margin:auto;">
 
 <h2>3-3：質因數搜尋</h2>
 	<h3>Input：一個正整數</h3>
