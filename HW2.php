@@ -31,7 +31,6 @@
 <img src="images/HW2_4_2.png" style="display:block; margin:auto;">
 <img src="images/HW2_4_3.png" style="display:block; margin:auto;">
 
-
 <br>
 <br>
 <br>
