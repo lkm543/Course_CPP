@@ -11,7 +11,7 @@
 		require_once("Chapter0".$x.".php");
 		echo '</div>';
 	} 
-	for ($x = 10; $x <= 19; $x++) {
+	for ($x = 10; $x <= 14; $x++) {
     	echo '<div class="tabContent" data-id="Chapter'.$x.'" style="display:none">';
 		echo "<h3><a href=\"Lectures\\Chapter".$x.".pptx\">PPT下載連結</a></h3> ";
 		require_once("Chapter".$x.".php");
