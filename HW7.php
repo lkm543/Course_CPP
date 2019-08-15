@@ -6,11 +6,11 @@
 <h2>7-2：檔案的輸入與輸出</h2>
 	<h3>資料下載：檔案內容如下</h3>
 	<h3><a href="http://www.lkm543.site/Course/Cpp/Data/HW7_2.txt">http://www.lkm543.site/Course/Cpp/Data/HW7_2.txt</a></h3>
-	<img src="images/HW7_2_1.png" style="display:block; margin:auto; width: 70%" >
+	<img src="images/HW7_2_1.PNG" style="display:block; margin:auto; width: 70%" >
 	<h3>請設計一隻程式，可以讀取檔案裏頭的問題後逐行輸出，在由使用者回答後統整問題與答案到一個txt檔案裏頭。</h3>
 	<img src="images/HW7_2_2.png" style="display:block; margin:auto;">
 	<h3>輸出檔案應該如下：</h3>
-	<img src="images/HW7_2_3.png" style="display:block; margin:auto; width: 70%" >
+	<img src="images/HW7_2_3.PNG" style="display:block; margin:auto; width: 70%" >
 	<h3>Hint：getline(file,str) , getline(cin,str) ,file <<‘n’</h3>
 
 
@@ -24,16 +24,16 @@
 
 <h2>7-4：簡易編碼學</h2>
 	<h3>資料下載：</h3>
-	<h3><a href="http://www.lkm543.site/Course/Cpp/Data/HW7_4_Encoded.txt">http://www.lkm543.site/Course/Cpp/Data/HW7_5_Encoded.txt</a></h3>
+	<h3><a href="http://www.lkm543.site/Course/Cpp/Data/HW7_4_Encoded.txt">http://www.lkm543.site/Course/Cpp/Data/HW7_4_Encoded.txt</a></h3>
 	<h3>上面檔案為一個文字檔，其內容是以Ascii Table編碼為如下</h3>	
-	<img src="images/HW7_4_1.png" style="display:block; margin:auto; width: 70%" >
+	<img src="images/HW7_4_1.PNG" style="display:block; margin:auto; width: 70%" >
 	<h3>請依照Ascii轉換表轉換成英文後輸出成一個txt檔案</h3>
-	<img src="images/HW7_4_2.png" style="display:block; margin:auto; width: 70%" >
+	<img src="images/HW7_4_2.PNG" style="display:block; margin:auto; width: 70%" >
 	<h3>Hint: file >> asciiCode、Ascii Table</h3>
 
 <h2>7-5：大老二發牌隨機程式</h2>
 	<h3>請撰寫一個程式，使其可以隨機發牌給四位玩家大老二的牌組(意即將撲克牌52張牌平均分給四位)，請注意出現的牌不得有重複的部分。</h3>
-	<img src="images/HW7_5_3.png" style="display:block; margin:auto; width: 70%" >
+	<img src="images/HW7_5.png" style="display:block; margin:auto; width: 70%" >
 
 <br>
 <br>
