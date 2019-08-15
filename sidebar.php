@@ -17,15 +17,15 @@
     <li class='tab' data-tabid="HW3"><a href="#HW3">Homework 3</a></li>
     <li class='tab' data-tabid="Chapter07"><a href="#Chapter07">Chapter 07 陣列</a></li>
     <li class='tab' data-tabid="Chapter08"><a href="#Chapter08">Chapter 08 字元與字串</a></li>
-    <li class='tab' data-tabid="HW4"><a href="#HW1">Homework 4</a></li>
+    <li class='tab' data-tabid="HW4"><a href="#HW4">Homework 4</a></li>
     <li class='tab' data-tabid="Chapter09"><a href="#Chapter09">Chapter 09 指標與參考</a></li>
-    <li class='tab' data-tabid="HW5"><a href="#HW1">Homework 5</a></li>
+    <li class='tab' data-tabid="HW5"><a href="#HW5">Homework 5</a></li>
     <li class='tab' data-tabid="Chapter10"><a href="#Chapter10">Chapter 10 函式與遞迴</a></li>
-    <li class='tab' data-tabid="HW6"><a href="#HW2">Homework 6</a></li>
+    <li class='tab' data-tabid="HW6"><a href="#HW6">Homework 6</a></li>
     <li class='tab' data-tabid="Chapter11"><a href="#Chapter11">Chapter 11 函式庫的使用</a></li>
     <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Chapter 12 檔案處理</a></li>
-    <li class='tab' data-tabid="HW7"><a href="#HW3">Homework 7</a></li>
+    <li class='tab' data-tabid="HW7"><a href="#HW7">Homework 7</a></li>
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Chapter 13 列舉與結構</a></li>
     <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 標頭檔的建立</a></li>
-    <li class='tab' data-tabid="HW8"><a href="#HW4">Homework 8</a></li>
+    <li class='tab' data-tabid="HW8"><a href="#HW8">Homework 8</a></li>
 </ul>
