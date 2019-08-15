@@ -1,18 +1,9 @@
-
-<h2>Chapter 13 類別的關係、繼承</h2>
+<h2>Chapter 13 列舉與結構</h2>
 
 <h2>大綱</h2>
-<p>為了擴展程式的同時能夠保護到舊有的程式碼不受更動，我們通常會使用繼承的方式來擴寫原有的物件，另外當有多個物件存在的時候，物件與物件之間的權限控制便變得十分重要，因此這裡要學習的就是friend與繼承的使用。<br>(本章預計授課時間：130-150 Mins)</p> 
+<p>當我們一筆資料可能含有多種不同屬性的時候，我們便可以透過結構來開出一個新的資料型別，該資料型別底下便可以包含不同的變數型態，這種用法稱之為結構。同時結構的使用也可以做為物件的基礎。<br>(本章預計授課時間：60-70 Mins)</p> 
 
-<h2>friend</h2>
-<video id="movie" preload="metadata" poster="poster.png" width="640" height="360">
-  <source src=" Videos/13_1.mp4" type="video/mp4" />
-  您的瀏覽器不支援影片播放
-</video>
-
-
-<h2>繼承</h2>
-<video id="movie" preload="metadata" poster="poster.png" width="640" height="360">
-  <source src=" Videos/13_2.mp4" type="video/mp4" />
+<video id="movie" preload="meta" poster="poster.png" width="640" height="360">
+  <source src=" Videos/11_1.mp4" type="video/mp4" />
   您的瀏覽器不支援影片播放
 </video>
