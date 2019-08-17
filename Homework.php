@@ -39,7 +39,7 @@ $_SESSION['Uploaded']='Nothing';
 <?php
 function print_hw_table($hw, $limit) {
     global $db;
-    echo "<h4>作業".$hw."繳交情形：</h4>";
+    echo "<h4>作業".$hw."繳交情形(最近五筆)：</h4>";
     $sql = "SELECT * FROM HW".$hw." ORDER BY UploadDate DESC LIMIT ".$limit ;
     $result = $db->query($sql);
     echo "<div class=\"table-responsive\">";
