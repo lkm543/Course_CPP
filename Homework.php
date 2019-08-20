@@ -14,7 +14,7 @@ $_SESSION['Uploaded']='Nothing';
 <div class="form-group">
     <form action="UploadHW.php" method="post" enctype="multipart/form-data">
         <label>您的姓名：</label>
-        <input type="text" name="name" class="form-control" placeholder="姓名" maxlength="5">
+        <input type="text" name="name" class="form-control is-invalid" placeholder="姓名" maxlength="5" required>
         
         <label>作業幾：</label>
         <select id="inputState" class="form-control" name="HW">
