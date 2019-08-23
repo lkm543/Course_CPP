@@ -2,7 +2,7 @@
 
 <h2>5-1：指標指向哪裡?(請回答於記事本中後上傳)</h2>
 	<img src="images/HW5_1_1.png" style="display:block; margin:auto;">
-	<img src="images/HW5_1_2.png" style="display:block; margin:auto;">
+	<img src="images/HW5_1_2.PNG" style="display:block; margin:auto;">
 	<h3>5-1-1：Point_1 = ?</h3>
 	<h3>5-1-2：*Point_1 = ?</h3>
 	<h3>5-1-3：&Point_1 = ?</h3>
