@@ -22,6 +22,7 @@
 	<img src="images/HW7_3_2.png" style="display:block; margin:auto;">
 	<h3>Hint：用rand()%2來定義，若rand()%2=1為正面、rand()%2=1為反面。如此一來就可以計算正反面出現的次數。</h3>
 	<h3>Optional：標準差(σ)=√(np(1-p))，其中n為樣本數、p為機率，有空可以驗證看看落在±σ、±2σ、±3σ中的機率，是否真的為統計上所述的68%、95%、99.7%?</h3>
+	<img src="images/HW7_3_3.png" style="display:block; margin:auto;">
 
 <h2>7-4：簡易編碼學</h2>
 	<h3>資料下載：</h3>
