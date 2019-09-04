@@ -26,6 +26,6 @@
     <li class='tab' data-tabid="Chapter12"><a href="#Chapter12">Chapter 12 檔案處理</a></li>
     <li class='tab' data-tabid="HW7"><a href="#HW7">Homework 7</a></li>
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Chapter 13 列舉與結構</a></li>
-    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 標頭檔的建立</a></li>
+    <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 標頭檔的建立與使用</a></li>
     <li class='tab' data-tabid="HW8"><a href="#HW8">Homework 8</a></li>
 </ul>
