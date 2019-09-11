@@ -8,6 +8,12 @@ SSID：CSIE_guest<br>
 帳號：guest_H7C8B<br>
 密碼：IM6DMBRR</h2>
 
+<h2>2019/09/04</h2>
+<ul>
+	<li>13、14章PPT已更新完畢</li>
+	<li>HW8更新完畢</li>
+</ul>
+
 <h2>2019/09/02</h2>
 <ul>
 	<li>HW1~7參考答案已上傳<a href="/Course/Cpp/Download/">Download區</a></li>
