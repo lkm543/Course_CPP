@@ -1,3 +1,5 @@
+<h3><a href="Lectures\HW2.pdf">PDF下載連結</a></h3> 
+
 <h1>作業2條件與例外判斷</h1>
 <h2>2-1：類型判斷</h2>
 	<h3>Input：一個數</h3>

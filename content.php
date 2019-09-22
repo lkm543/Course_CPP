@@ -19,10 +19,9 @@
 	} 
 	for ($x = 1; $x <= 8; $x++) {
     	echo '<div class="tabContent" data-id="HW'.$x.'" style="display:none">';
-		echo "<h3><a href=\"Lectures\\HW".$x.".pdf\">PDF下載連結</a></h3> ";
 		require_once("HW".$x.".php");
 		echo '</div>';
-	} 
+	}
 	echo '<div class="tabContent" data-id="Homework" style="display:none">';
 	require_once("Homework.php");
 	echo '</div>';
