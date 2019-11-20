@@ -5,6 +5,7 @@
 
 <h2 class="star">課程目錄</h2>
 <ul class="sb_menu etabs">
+    <li class='tab' data-tabid="Introduction"><a href="#Introduction">Introduction 課程簡介</a></li>
     <li class='tab' data-tabid="Chapter00"><a href="#Chapter00">Chapter 00 電腦運作原理與C/C++簡介</a></li>
     <li class='tab' data-tabid="Chapter01"><a href="#Chapter01">Chapter 01 基本輸入輸出</a></li>
     <li class='tab' data-tabid="Chapter02"><a href="#Chapter02">Chapter 02 資料型態與變數</a></li>
