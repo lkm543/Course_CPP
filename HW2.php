@@ -8,13 +8,7 @@
 <img src="images/HW2_1_1.png" style="display:block; margin:auto;">
 <img src="images/HW2_1_2.png" style="display:block; margin:auto;">
 
-<h2>2-2：例外判斷</h2>
-	<h3>Input：三角形的三邊長</h3>
-	<h3>Output：該三邊長構成的三角形為正三角形、等腰三角形、或是不存在(使用throw/catch)</h3>
-<img src="images/HW2_2_1.png" style="display:block; margin:auto;">
-<img src="images/HW2_2_2.png" style="display:block; margin:auto;">
-
-<h2>2-3：選單製作(必須使用Switch完成)</h2>
+<h2>2-2：選單製作(必須使用Switch完成)</h2>
 	<h3>Output：N開始新遊戲、L讀取存檔、I遊戲說明、E離開</h3>
 	<h3>Input：N、L、I、E之一</h3>
 	<h3>Output：相對應的文字</h3>
@@ -22,7 +16,7 @@
 <img src="images/HW2_3_2.png" style="display:block; margin:auto;">
 <img src="images/HW2_3_3.png" style="display:block; margin:auto;">
 
-<h2>2-4：閏年判斷</h2>
+<h2>2-3：閏年判斷</h2>
 	<h3>Input：年份</h3>
 	<h3>Output：該年份是否為閏年</h3>
 	<h3>Hint：閏年規則如下</h3>
