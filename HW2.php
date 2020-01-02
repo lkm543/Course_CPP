@@ -21,8 +21,8 @@
 	<h3>Output：該年份是否為閏年</h3>
 	<h3>Hint：閏年規則如下，Rule 3>Rule 2>Rule 1</h3>
 	<h3>Rule 1：原則上年份可整除4，則為閏年。</h3>
-	<h3>Rule 2：符合Rule 1的年份中，若年份又可整除100，則為平年。</h3>
-	<h3>Rule 3：符合Rule 2的年份中，若年份又可整除400，則為閏年。</h3>
+	<h3>Rule 2：符合Rule 1的年份中，若年份可整除100，則為平年。</h3>
+	<h3>Rule 3：符合Rule 2的年份中，若年份可整除400，則為閏年。</h3>
 <img src="images/HW2_4_1.png" style="display:block; margin:auto;">
 <img src="images/HW2_4_2.png" style="display:block; margin:auto;">
 <img src="images/HW2_4_3.png" style="display:block; margin:auto;">

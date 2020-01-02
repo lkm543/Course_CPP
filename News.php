@@ -8,6 +8,11 @@ SSID：CSIE_guest<br>
 帳號：guest_H7C8B<br>
 密碼：IM6DMBRR</h2>
 
+<h2>2020/01/02</h2>
+<ul>
+	<li>應同學反應修改作業2-3的敘述</li>
+</ul>
+
 <h2>2019/12/20</h2>
 <ul>
 	<li>課程講義與影片已更新</li>
