@@ -10,7 +10,7 @@ SSID：CSIE_guest<br>
 
 <h2>2020/02/01</h2>
 <ul>
-	<li>期末考試(六選一題)已上傳至<a href="/Course/Cpp/Download/">Download區</a>，完成後在下周日(02/09)前寄至lkm543@gmail.com</li>
+	<li><a href="/Course/Cpp/Download/Final2.pdf">期末考試(六選一題)</a>與<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a>已上傳，完成後在下周日(02/09)前寄至lkm543@gmail.com</li>
 	<li>非常抱歉今天資工系館未開放</li>
 
 <h2>2020/01/22</h2>
