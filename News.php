@@ -8,6 +8,12 @@ SSID：CSIE_guest<br>
 帳號：guest_H7C8B<br>
 密碼：IM6DMBRR</h2>
 
+<h2>2020/02/01</h2>
+<ul>
+	<li>期末考試(六選一題)已上傳至<a href="/Course/Cpp/Download/">Download區</a>，完成後在下周日(02/09)前寄至lkm543@gmail.com</li>
+	<li>非常抱歉今天資工系館未開放</li>
+</ul>
+
 <h2>2020/01/02</h2>
 <ul>
 	<li>應同學反應修改作業2-3的敘述</li>
