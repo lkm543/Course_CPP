@@ -5,8 +5,9 @@
 
 <h2>無線網路Wifi帳號密碼(2019下半年)<br>
 SSID：CSIE_guest<br>
-帳號：guest_H7C8B<br>
-密碼：IM6DMBRR</h2>
+帳號：guest_15NRZ<br>
+密碼：YHGWL4IT</h2>
+
 
 <h2>2020/02/01</h2>
 <ul>
