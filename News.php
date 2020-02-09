@@ -8,11 +8,16 @@ SSID：CSIE_guest<br>
 帳號：guest_15NRZ<br>
 密碼：YHGWL4IT</h2>
 
+<h2>2020/02/09</h2>
+<ul>
+	<li>下周六(02/15)因補班日暫停上課，課程順延，下周日(02/16)照常上課。</li>
+</ul>
 
 <h2>2020/02/01</h2>
 <ul>
 	<li><a href="/Course/Cpp/Download/Final2.pdf">期末考試(六選一題)</a>與<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a>已上傳，完成後在下周日(02/09)前寄至lkm543@gmail.com</li>
 	<li>非常抱歉今天資工系館未開放</li>
+</ul>
 
 <h2>2020/01/22</h2>
 <ul>
