@@ -13,6 +13,13 @@ SSID：CSIE_guest<br>
 	<li>325期的期末考已批改&回傳完畢，若有同學沒收到的話請回信告知。</li>
 </ul>
 
+<h2>2020/03/21</h2>
+<ul>
+	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後在周日(3/22)前寄至lkm543@gmail.com</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
+	<li>作業的繳交期限也是明天(3/22)午夜12點</li>
+</ul>
+
 <h2>2020/03/14</h2>
 <ul>
 	<li>重錄的課程影片都上線了喔!</li>
