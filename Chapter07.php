@@ -15,12 +15,12 @@
 
 <h2>二維陣列</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z1ExI6AHLUE"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qsVioyLQHDo"></iframe>
 </div>
 
 <h2>習題講解</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qsVioyLQHDo"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z1ExI6AHLUE"></iframe>
 </div>
 
 <h2>時間換取空間</h2>
