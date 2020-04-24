@@ -29,4 +29,5 @@
     <li class='tab' data-tabid="Chapter13"><a href="#Chapter13">Chapter 13 列舉與結構</a></li>
     <li class='tab' data-tabid="Chapter14"><a href="#Chapter14">Chapter 14 標頭檔的建立與使用</a></li>
     <li class='tab' data-tabid="HW8"><a href="#HW8">Homework 8</a></li>
+    <li class='tab' data-tabid="Chapter15"><a href="#Chapter15">Chapter 15 課程後記</a></li>
 </ul>
