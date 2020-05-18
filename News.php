@@ -3,10 +3,17 @@
 
 <h2>2019年8月後作業量變為八次，負擔較重，若您同時有其他外務，修課前請三思</h2>
 
+<h2><a href="https://discord.gg/8xmwCk">本門課的Discord連結</a></h2>
+
 <h2>無線網路Wifi帳號密碼(2020上半年)<br>
 SSID：CSIE_guest<br>
 帳號：guest_15NRZ<br>
 密碼：YHGWL4IT</h2>
+
+<h2>2020/05/18</h2>
+<ul>
+	<li>開了一個Discord來試用，以後有問題想問or意見想反應or想討論可以在上面進行。(<a href="https://discord.gg/8xmwCk">Discord連結</a>)</li>
+</ul>
 
 <h2>2020/05/10</h2>
 <ul>
