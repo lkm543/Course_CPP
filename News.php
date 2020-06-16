@@ -2,11 +2,18 @@
 <h2>最新消息</h2>
 
 <h2><a href="https://discord.gg/gFPMe6G">本門課的Discord連結</a></h2>
+<h2>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%B3%87%E5%B7%A5-102818568130388">粉絲專頁</a></h2>
 
 <h2>無線網路Wifi帳號密碼(2020上半年)<br>
 SSID：CSIE_guest<br>
 帳號：guest_15NRZ<br>
 密碼：YHGWL4IT</h2>
+
+<h2>2020/06/16</h2>
+<ul>
+	<li>328期的期末考已批改&回傳完畢，若有同學沒收到的話請回信告知。</li>
+	<li>最近開了一個<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%B3%87%E5%B7%A5-102818568130388">粉絲專頁</a>固定寫些程式相關的入門或是應用知識，有空的話可以參考</li>
+</ul>
 
 <h2>2020/05/18</h2>
 <ul>
