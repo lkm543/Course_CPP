@@ -1,8 +1,8 @@
 
 <h2>最新消息</h2>
 
-<h2>本門課的<a href="https://discord.gg/gFPMe6G">Discord連結</a></h2>
-<h2>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E8%B3%87%E5%B7%A5-102818568130388">粉絲專頁</a></h2>
+<h2>本門課的<a href="https://discord.gg/Cxw8W2P">Discord連結</a></h2>
+<h2>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BC%8F-108418124301138">粉絲專頁</a></h2>
 
 <h2>無線網路Wifi帳號密碼(2020上半年)<br>
 SSID：CSIE_guest<br>
