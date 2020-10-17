@@ -9,6 +9,11 @@ SSID：CSIE_guest<br>
 帳號：guest_W76TG<br>
 密碼：BCC6VSD7</h2>
 
+<h2>2020/10/17</h2>
+<ul>
+	<li>335期<a href="https://bit.ly/31gkB9F">期初問卷</a></li>
+</ul>
+
 <h2>2020/07~09</h2>
 <ul>
 	<li>因國考與系館維修工程進行，停開課程三期</li>
