@@ -13,6 +13,7 @@ SSID：CSIE_guest<br>
 <h2>2020/11/15</h2>
 <ul>
 	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後在今天(11/15)前寄至lkm543@gmail.com</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
 	<li>請幫忙至<a href="https://train.csie.ntu.edu.tw/train/">訓練班網站</a>登入後填個問券</li>	
 	<li>作業的繳交期限也是今天(11/15)午夜12點</li>
 </ul>
