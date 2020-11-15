@@ -9,6 +9,14 @@ SSID：CSIE_guest<br>
 帳號：guest_W76TG<br>
 密碼：BCC6VSD7</h2>
 
+
+<h2>2020/11/15</h2>
+<ul>
+	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後在今天(11/15)前寄至lkm543@gmail.com</li>
+	<li>請幫忙至<a href="https://train.csie.ntu.edu.tw/train/">訓練班網站</a>登入後填個問券</li>	
+	<li>作業的繳交期限也是今天(11/15)午夜12點</li>
+</ul>
+
 <h2>2020/10/18</h2>
 <ul>
 	<li>章節的最後新增APCS題目供有意應試的同學參考</a></li>
