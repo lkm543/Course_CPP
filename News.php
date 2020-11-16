@@ -1,14 +1,18 @@
 
 <h2>最新消息</h2>
 
-<h2>本門課的<a href="https://discord.gg/Cxw8W2P">Discord連結</a></h2>
-<h2>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BC%8F-108418124301138">粉絲專頁</a></h2>
-
-<h2>無線網路Wifi帳號密碼(2020上半年)<br>
-SSID：CSIE_guest<br>
-帳號：guest_W76TG<br>
-密碼：BCC6VSD7</h2>
-
+<h2>重要公告</h2>
+<ul>
+	<li>進階班(資結演算法)的<a href="http://www.lkm543.site/Course/DS_AL/">連結</a>，帳號DSAL、密碼ILOVEDSAL</li>
+	<li>本門課的<a href="https://discord.gg/vY9NU53Mzn">Discord連結</a></li>
+	<li>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BC%8F-108418124301138">粉絲專頁</a></li>
+	<li>無線網路Wifi帳號密碼(2020下半年)</li>
+	<ul>
+		<li>SSID：CSIE_guest</li>
+		<li>帳號：guest_W76TG</li>
+		<li>密碼：BCC6VSD7</li>
+	</ul>
+</ul>
 
 <h2>2020/11/15</h2>
 <ul>
