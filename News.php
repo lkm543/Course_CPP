@@ -16,6 +16,7 @@ SSID：CSIE_guest<br>
 	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
 	<li>請幫忙至<a href="https://train.csie.ntu.edu.tw/train/">訓練班網站</a>登入後填個問券</li>	
 	<li>作業的繳交期限也是今天(11/15)午夜12點</li>
+	<li>(工商服務)有興趣研究資結演算法的話可以來修<a href="https://train.csie.ntu.edu.tw/train/course.php?id=3074">進階班</a></li>
 </ul>
 
 <h2>2020/10/18</h2>
