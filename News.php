@@ -14,6 +14,13 @@
 	</ul>
 </ul>
 
+<h2>2020/12/26</h2>
+<ul>
+	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後在周日(12/27)前寄至lkm543@gmail.com</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
+	<li>作業的繳交期限也是明天(12/27)午夜12點</li>
+</ul>
+
 <h2>2020/11/25</h2>
 <ul>
 	<li>本週六(11/28)因為系館施工停課一次喔</li>
