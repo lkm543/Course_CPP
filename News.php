@@ -14,6 +14,13 @@
 	</ul>
 </ul>
 
+<h2>2021/02/06</h2>
+<ul>
+	<li>作業的參考答案已上傳到<a href="/Course/Cpp/Download">Download區</a></li>
+	<li>幫填個問卷，明天要上課嗎？<a href="https://docs.google.com/forms/d/e/1FAIpQLSeFobnYHNOrfOh7nXYG0xeCVS68HMMW4U5cO7Pbqj4C29Pj3A/viewform
+">連結</a></li>
+</ul>
+
 <h2>2020/01/03</h2>
 <ul>
 	<li>336期的期末考都批改完&回信了喔！沒收到信的話請盡速通知我</li>
