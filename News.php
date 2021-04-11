@@ -15,6 +15,13 @@
 	</ul>
 </ul>
 
+<h2>2021/04/11</h2>
+<ul>
+	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後 04/18 前寄至lkm543@gmail.com</li>
+	<li>作業的繳交期限也是 04/18 午夜12點</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
+</ul>
+
 <h2>2021/03/06</h2>
 <ul>
 	<li>幫填個340期的<a href="https://docs.google.com/forms/d/e/1FAIpQLSfrwIsunq5jcMHkrjLmlOUzQshznvpddIR7r5RSDNIa0i3fDA/viewform">問券</a></li>
