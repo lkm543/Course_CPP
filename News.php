@@ -3,7 +3,7 @@
 
 <h2>重要公告</h2>
 <ul>
-	<li>進階班(物件導向)的<a href="https://www.lkm543.site/Cpp_OOP/">連結</a>，帳號CPPOOP、密碼ILOVECPP</li>
+	<li>物件導向班的<a href="https://www.lkm543.site/Cpp_OOP/">連結</a>，帳號CPPOOP、密碼ILOVECPP</li>
 	<li>資料結構班的<a href="https://www.lkm543.site/Data_Structures/">連結</a>，帳號DSAL、密碼ILOVEDSAL</li>
 	<li>演算法班的<a href="https://www.lkm543.site/Algorithm/">連結</a>，帳號AL、密碼ILOVEAL</li>
 	<li>本門課的<a href="https://discord.gg/vY9NU53Mzn">Discord連結</a></li>
