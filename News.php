@@ -16,6 +16,13 @@
 	</ul>
 </ul>
 
+<h2>2021/05/15</h2>
+<ul>
+	<li>因為疫情升溫的關係，自下周起在台大的所有課程皆會改成線上進行，因此這周末兩天的實體課程都會暫緩，影片可自行參閱</li>
+	<li>晚上 22:00~23:00我會在<a href="https://meet.google.com/atd-hgtm-wrw">Google Meet</a>視訊，屆時對課程有問題都可以詢問</li>
+	<li>期末考的部分我會在5/16(日)公告在課程網頁上，大家可以自行下載後撰寫，中間有任何疑問也可以直接傳訊息給我。</li>
+</ul>
+
 <h2>2021/04/17</h2>
 <ul>
 	<li>幫填個341期的<a href="https://docs.google.com/forms/d/e/1FAIpQLScEKEz8ZvPwNfM8GhyJLryxSi6_hCM0tEX1rdb1SfCDfMGbZg/viewform">問券</a></li>
