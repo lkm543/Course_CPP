@@ -22,3 +22,8 @@
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7YOjQmKpy30"></iframe>
 </div>
+
+<h2>補充：補數運算與溢位</h2>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-SmMWxsZMeg"></iframe>
+</div>
