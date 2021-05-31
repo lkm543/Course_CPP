@@ -5,7 +5,7 @@
 
 <h2>比較邏輯運算子</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PlQX8WQIWIM"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CwwINlhWERI"></iframe>
 </div>
 
 <h2>if else</h2>
@@ -20,12 +20,17 @@
 
 <h2>else if</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cDSU20AyJqo"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-d7BVjVABC4"></iframe>
 </div>
 
 <h2>習題講解</h2>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vrqf8BQvKKg"></iframe>
+</div>
+
+<h2>習題講解2</h2>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KCM74GPkiRw"></iframe>
 </div>
 
 <h2>switch</h2>
