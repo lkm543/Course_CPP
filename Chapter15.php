@@ -15,7 +15,7 @@
 
 <h2>中階課程</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a_ZtfDgyS-Y"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CEH5xL4GvFA"></iframe>
 </div>
 
 <h2>應用領域</h2>
