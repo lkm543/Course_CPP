@@ -40,12 +40,17 @@
 
 <h2>while loop</h2>
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xpCQintFTxs"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QNqK_7XxaeU"></iframe>
 </div>
 
 <h2>習題講解</h2>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/V3lDlc0JQhk"></iframe>
+</div>
+
+<h2>習題講解2</h2>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/66mi0nGwYvU"></iframe>
 </div>
 
 <h2>for與while的比較</h2>

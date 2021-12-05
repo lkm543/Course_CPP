@@ -22,3 +22,8 @@
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Wq1ShCilSw"></iframe>
 </div>
+
+<h2>Assert</h2>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Lgylm4VwfCk"></iframe>
+</div>

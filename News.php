@@ -3,9 +3,7 @@
 
 <h2>重要公告</h2>
 <ul>
-	<li>物件導向班的<a href="https://www.lkm543.site/Cpp_OOP/">連結</a>，帳號CPPOOP、密碼ILOVECPP</li>
-	<li>資料結構班的<a href="https://www.lkm543.site/Data_Structures/">連結</a>，帳號DSAL、密碼ILOVEDSAL</li>
-	<li>演算法班的<a href="https://www.lkm543.site/Algorithm/">連結</a>，帳號AL、密碼ILOVEAL</li>
+	<li>本門課的<a href="http://114.34.49.34/">上課練習系統</a></li>
 	<li>本門課的<a href="https://discord.gg/vY9NU53Mzn">Discord連結</a></li>
 	<li>不是本門課但可以參考的<a href="https://www.facebook.com/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%A8%8B%E5%BC%8F-108418124301138">粉絲專頁</a></li>
 	<li>無線網路Wifi帳號密碼(2021上半年)</li>
@@ -20,6 +18,21 @@
 <ul>
 	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後 12/05 前寄至lkm543@gmail.com</li>
 	<li>作業的繳交期限也是 12/05 午夜12點，若有特殊需求請來信告知</li>
+</ul>
+
+<h2>2021/05/16</h2>
+<ul>
+	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後 05/23 午夜12點前寄至lkm543@gmail.com</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
+	<li>作業的繳交期限也是 05/23 午夜12點</li>
+</ul>
+
+
+<h2>2021/05/15</h2>
+<ul>
+	<li>因為疫情升溫的關係，自下周起在台大的所有課程皆會改成線上進行，因此這周末兩天的實體課程都會暫緩，影片可自行參閱</li>
+	<li>晚上 22:00~23:00我會在<a href="https://meet.google.com/atd-hgtm-wrw">Google Meet</a>視訊，屆時對課程有問題都可以詢問</li>
+	<li>期末考的部分我會在5/16(日)公告在課程網頁上，大家可以自行下載後撰寫，中間有任何疑問也可以直接傳訊息給我。</li>
 </ul>
 
 <h2>2021/04/17</h2>
