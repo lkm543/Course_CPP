@@ -18,6 +18,7 @@
 <ul>
 	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後 12/05 前寄至lkm543@gmail.com</li>
 	<li>作業的繳交期限也是 12/05 午夜12點，若有特殊需求請來信告知</li>
+	<li>期末考試<a href="/Course/Cpp/Download/Final_P1_Hint.cpp">第一題的提示</a></li>
 </ul>
 
 <h2>2021/05/16</h2>
