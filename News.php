@@ -14,6 +14,11 @@
 	</ul>
 </ul>
 
+<h2>2021/12/12</h2>
+<ul>
+	<li>349期的期末考都批改完&回信了喔！沒收到信的話請盡速通知我</li>
+</ul>
+
 <h2>2021/12/05</h2>
 <ul>
 	<li><a href="/Course/Cpp/Download/Final.pdf">期末考試(六選一題)</a>已上傳至Download區，完成後 12/05 前寄至lkm543@gmail.com</li>
