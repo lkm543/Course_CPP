@@ -14,6 +14,15 @@
 	</ul>
 </ul>
 
+<h2>2022/04/15</h2>
+<ul>
+	<li>因為疫情關係系館本周末需要清消，所以本周末的課程改為線上進行</li>
+	<li>週六(04/16)早上的 0900~1200、週日 (04/17)  下午1300~1600 改成線上進行</li>
+	<li>連結為：<a href="https://meet.google.com/uqq-ovaq-qgk">https://meet.google.com/uqq-ovaq-qgk</a></li>
+	<li>不克出席或不方便視訊的同學也沒關係，影片都在課程網頁上</a></li>
+	<li>提醒大家這周末的進度為：Chapter 09 指標與參考、Chapter 10 函式與遞迴、Homework 5、6</a></li>
+</ul>
+
 <h2>2022/04/01</h2>
 <ul>
 	<li>下次上課(04/09 早上)前請看完課程網頁上的 Chapter 04 條件判斷、Chapter 05 例外判斷，並完成作業2。</li>
