@@ -1,10 +1,11 @@
 <?php
-//ini_set('display_errors', 1);
-//error_reporting(E_ALL);
+// ini_set('display_errors', 1);
+// error_reporting(E_ALL);
 if ($_FILES["fileToUpload"]["error"] > 0){
 	echo "Error: " . $_FILES["fileToUpload"]["error"];
 }else{
 	session_start();
+	chmod("Upload/".$_POST['HW']."/", 0644);
 	$Name=$_POST['name'];
 	$Comment=$_POST['comment'];
 	$UploadDate=date('Y-m-d H:i:s');
@@ -33,8 +34,8 @@ if ($_FILES["fileToUpload"]["error"] > 0){
 	$_SESSION['FileType']=$_FILES["fileToUpload"]["type"];
 	$_SESSION['FileSize']=($_FILES["fileToUpload"]["size"] / 1024)." Kb";	
 
-
-	$newfilename = time() . '_' . rand(100, 999) . '.' . end(explode(".",$_FILES["fileToUpload"]["name"]));
+	$tmp = explode(".",$_FILES["fileToUpload"]["name"]);
+	$newfilename = time() . '_' . rand(100, 999) . '.' . end($tmp);
 
 	if(!move_uploaded_file($_FILES["fileToUpload"]["tmp_name"],"Upload/".$_POST['HW']."/".$newfilename)){
 		echo "Error";

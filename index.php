@@ -76,7 +76,10 @@ session_start();
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
           <?php
-          if ($_SESSION['Login']=='CPP' or $_SESSION['Login']=='Admin'){
+          if(!isset($_SESSION['Login']) && empty($_SESSION['Login'])) {
+            require_once("login_page.php");
+          }
+          elseif ($_SESSION['Login']=='CPP' or $_SESSION['Login']=='Admin'){
             require_once("content.php");
           }
           else{

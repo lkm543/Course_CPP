@@ -1,8 +1,3 @@
-<?php
-  $ch=$_GET["Chapter"];
-  $ch_int=(int) $ch;
-?>
-
 <h2 class="star">課程目錄</h2>
 <ul class="sb_menu etabs">
     <li class='tab' data-tabid="Introduction"><a href="#Introduction">Introduction 課程簡介</a></li>

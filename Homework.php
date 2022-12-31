@@ -3,7 +3,7 @@ if (strcmp($_SESSION['Uploaded'],'True')==0){
 echo "<font color=\"red\">作業繳交成功囉!!!!</font><br/>";
 echo "檔案名稱: " . $_SESSION['Filename']."<br/>";
 echo "檔案類型: " . $_SESSION['FileType']."<br/>";
-echo "檔案大小: " . ($_SESSION['FileSize'] / 1024)." Kb<br/>";
+echo "檔案大小: " . ((int)$_SESSION['FileSize'] / 1024)." Kb<br/>";
 }
 elseif (strcmp($_SESSION['Uploaded'],'Error')==0){
 echo "作業繳交失敗，請重試一次或聯絡lkm543@gmail.com";
